@@ -1,4 +1,4 @@
-# ![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/f8/0eb1b07a7e11e7b1da5debeeb677ef/dlai-logo-final-minus-font-plus-white-backg.png?auto=format%2Ccompress&dpr=1&w=&h=72) Deep Learning Specialization
+# Deep Learning Specialization
 
 ##### Master Deep Learning, and Break into AI
 ###### Instructor : [Andrew Ng](http://www.andrewng.org/)
